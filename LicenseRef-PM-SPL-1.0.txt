@@ -1,0 +1,186 @@
+Progmasoft Proprietary Source License, version 1.0
+
+SPDX identifiers: LicenseRef-PM-SPL-1.0-only, LicenseRef-PM-SPL-1.0-or-later
+
+
+1. Definitions
+
+"Licensor" means Progmasoft, the holder of the copyright in the Software or the
+person who licenses it under that name.
+
+"Software" means the source code, object code, documentation and other material
+that the Licensor makes available under this License, and any part of it.
+
+"You" means the individual or legal entity exercising rights under this License.
+"Your organization" means You and the legal entities that control, are
+controlled by or are under common control with You, together with their
+employees and contractors acting on their behalf.
+
+"Distribute" means to make a copy of the Software, or of a work containing or
+built from any part of it, available to anyone other than Your organization, by
+any means.
+
+"Modification" means a change to the Software, or a work built from any part of
+it.
+
+"Contribution" means any material You submit to the Licensor for inclusion in
+the Software, including through a pull request, an issue or a patch.
+
+"Progmasoft Names" means "Progmasoft", "Agenceland", the name of any other
+product of Progmasoft, and their logos.
+
+
+2. License grant
+
+Subject to the terms of this License, the Licensor grants You a worldwide,
+non-exclusive, non-transferable, royalty-free license to:
+
+  (a) read and study the Software;
+
+  (b) build the Software and run it on computers that You or Your organization
+      control, for any purpose, commercial purposes included;
+
+  (c) make Modifications for the use of Your organization and keep them;
+
+  (d) examine the Software for security vulnerabilities and report them to the
+      Licensor;
+
+  (e) quote short excerpts of the Software in issues, discussions and reviews,
+      to the extent needed to discuss it.
+
+The Software is provided free of charge.
+
+
+3. Restrictions
+
+You must not:
+
+  (a) Distribute the Software or a Modification, whether as source code or as a
+      build, except as Section 5 allows. Only the Licensor distributes the
+      Software, including through JetBrains Marketplace;
+
+  (b) sell, rent, lease or sublicense the Software, or include it in another
+      product;
+
+  (c) offer the Software, or functionality substantially derived from it, to
+      others as a hosted or network service;
+
+  (d) remove, alter or obscure any copyright, license or attribution notice in
+      the Software;
+
+  (e) circumvent any technical measure in the Software that controls access to
+      it.
+
+
+4. Names and advertising
+
+This License grants no right to use the Progmasoft Names, except as needed to
+describe the origin of the Software and to reproduce its notices.
+
+You must not use the Progmasoft Names, or any name or mark confusingly similar
+to them, to present Your own version, product or service as official, as made,
+endorsed or supported by Progmasoft, or as a product of Progmasoft.
+
+If You advertise in connection with Progmasoft or a product of Progmasoft, the
+advertising must state that it refers to Progmasoft or to a product of
+Progmasoft.
+
+
+5. Forks on GitHub
+
+Where the Software is published in a public repository on GitHub, GitHub's
+terms of service permit its users to view and fork that repository within
+GitHub. This License does not restrict that permission. A fork may exist only
+as far as those terms permit, remains subject to this License, and must not be
+Distributed outside GitHub.
+
+
+6. Contributions
+
+Contributions are welcome. A Contribution, and the act of contributing, must
+comply with this License.
+
+By submitting a Contribution You grant the Licensor a perpetual, worldwide,
+non-exclusive, royalty-free, irrevocable license to use, reproduce, modify,
+distribute, sublicense and relicense the Contribution, under this License or
+any other terms, and a patent license of the same scope for any patent claims
+You can license that the Contribution infringes.
+
+You confirm that You have the right to grant these licenses, and that the
+Contribution is Your original work or is submitted with the permission of its
+owner under terms that allow these licenses. You are not required to provide
+support for a Contribution.
+
+
+7. Third-party material
+
+Parts of the Software may be third-party material under their own licenses,
+which are identified in the Software. This License does not change those
+licenses, and their notices must be kept. Where a third-party license grants
+You more rights for that material, those rights apply to it.
+
+
+8. Patents
+
+The Progmasoft Patent Grant, Version 1.1, applies to the Software where the
+Software's PATENTS.md file says so, and only for the uses this License allows.
+
+If You or Your organization bring a claim, including a cross-claim or
+counterclaim, alleging that the Software infringes a patent, every patent
+license You received for the Software ends on the date the claim is filed.
+
+
+9. Termination
+
+Your rights under this License end automatically if You breach it.
+
+If it is Your first breach of this License, Your rights are restored if You
+cure the breach within 30 days after You receive notice of it from the
+Licensor. Otherwise they end permanently.
+
+On termination You must stop using the Software and delete the copies and
+Modifications in the possession of Your organization. Sections 4, 6, 7, 10, 11
+and 12 survive termination.
+
+
+10. Disclaimer of warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+SATISFACTORY QUALITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, TO
+THE EXTENT PERMITTED BY LAW.
+
+
+11. Limitation of liability
+
+TO THE EXTENT PERMITTED BY LAW, THE LICENSOR IS NOT LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+Nothing in this License limits or excludes liability for death or personal
+injury caused by negligence, for fraud or fraudulent misrepresentation, or for
+any other liability that cannot be limited or excluded by law.
+
+
+12. Governing law and jurisdiction
+
+This License is governed by the laws of England and Wales. The courts of England
+and Wales, sitting in London, have exclusive jurisdiction over any dispute
+arising from or in connection with it, except that the Licensor may seek
+injunctive relief in any court of competent jurisdiction.
+
+
+13. Versions
+
+The Licensor may publish new versions of this License. Software identified as
+LicenseRef-PM-SPL-1.0-only is licensed under this version only. Software
+identified as LicenseRef-PM-SPL-1.0-or-later may be used under this version or
+any later version published by the Licensor, at Your choice.
+
+
+14. Entire license
+
+This License is the whole of the terms under which the Licensor licenses the
+Software to You. If a provision is held unenforceable, it is changed only as
+much as needed to make it enforceable, and the other provisions continue in
+effect.
