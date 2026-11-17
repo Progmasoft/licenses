@@ -7,4 +7,5 @@ A published text never changes; a change is a new version.
 
 ## PM-SPL 1.0, 2026-11-17
 
-The first version of the Progmasoft Proprietary Source License.
+The first version of the Progmasoft Proprietary Source License, as plain text, with Markdown and reStructuredText
+forms of the same words.

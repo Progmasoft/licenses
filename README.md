@@ -11,6 +11,13 @@ standard licenses (MIT, EPL-2.0, LGPL-3.0, AGPL-3.0 and others), whose texts are
 | --- | --- | --- | --- | --- |
 | Progmasoft Proprietary Source License, version 1.0 (PM-SPL) | [LicenseRef-PM-SPL-1.0.txt](LicenseRef-PM-SPL-1.0.txt) | `LicenseRef-PM-SPL-1.0-only`, `LicenseRef-PM-SPL-1.0-or-later` | `63f2f71254c681a24168c20344862ff08c9e657a6cce7f2331559be422267d6b` | current |
 
+PM-SPL 1.0 is also kept in two marked-up forms, with the same words as the plain text, which is the canonical one:
+
+| Form | File | SHA-256 |
+| --- | --- | --- |
+| Markdown | [LicenseRef-PM-SPL-1.0.md](LicenseRef-PM-SPL-1.0.md) | `236e58038cc53bc8b4cabcca53599d63fa91f394ab08fabe358ee79e4a4c3fa3` |
+| reStructuredText | [LicenseRef-PM-SPL-1.0.rst](LicenseRef-PM-SPL-1.0.rst) | `b5ad63a41b0f799a5d027292f8a5781058ced572d4e7c019ae6f9c1af0017504` |
+
 ## The Progmasoft Proprietary Source License
 
 PM-SPL is a proprietary license with public source. It is not an open-source license.
